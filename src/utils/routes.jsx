@@ -6,4 +6,3 @@ export const paths = {
     room: 'room',
     reservation: 'reservation'
 }
- 
